@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-size: cover;
+    background-position: top;
+    position: relative;
+    background-color: #2d3436;
+}
+
+#progress .times,
+.card-footer,
+.volume-container,
+.container,
+.music-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.container,
+.music-list {
+    justify-content: center;
+}
+
+.music-list li {
+    background-color: #1e272e;
+    color: #d2dae2;
+}
+
+.music-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#load {
+    margin-right: 10px;
+}
+
+.volume-container i {
+    margin-right: 7px;
+}
+
+li.playing {
+    background-color: #808e9b;
+    color: white;
+}
+
+#bottom-music-list .music-list-item:hover {
+    cursor: pointer;
+    background-color: #485460;
+    color: white;
+}
