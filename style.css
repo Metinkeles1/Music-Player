@@ -2,11 +2,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
     background-size: cover;
     background-position: top;
     position: relative;
-    background-color: #2d3436;
+    min-height: 100vh;
 }
 
 #progress .times,

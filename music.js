@@ -14,10 +14,10 @@ class Music {
 
 
 const musicList = [
-    new Music("Boşver", "Nilüfer", "1.jpeg", "1.mp3", "11.jpg"),
-    new Music("Bu da Geçer mi Sevgilim", "Yalın", "2.jpeg", "2.mp3", "12.jpg"),
-    new Music("Aramızda Uçurumlar", "Suat Suna", "3.jpeg", "3.mp3", "13.jpg"),
-    new Music("Bella Ciao", "Becky G", "4.jpg", "4.mp3", "14.jpg"),
-    new Music("In Da Club", "50 Cent", "5.jpg", "5.mp3", "15.jpg"),
-    new Music("Bi' Tek Ben Anlarım", "KOFN", "6.jpg", "6.mp3", "16.jpg"),
+    new Music("Bella Ciao", "Becky G", "1.jpg", "1.mp3", "1.jpg"),
+    new Music("In Da Club", "50 Cent", "2.jpg", "2.mp3", "2.jpg"),
+    new Music("Bi' Tek Ben Anlarım", "KOFN", "3.jpg", "3.mp3", "3.jpg"),
+    new Music("Hadi Çal", "Derya Uluğ", "4.jpg", "4.mp3", "4.jpg"),
+    new Music("Arıyorum", "Edis", "5.jpg", "5.mp3", "5.jpg"),
+    new Music("Aşk Sadece Anlayana", "Velet", "6.jpg", "6.mp3", "6.jpg"),
 ]
